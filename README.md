@@ -1,6 +1,8 @@
 # Github Test Repo Repo Repo
 Testing git merge and rebase
 
+Hey hi, what's up
+
 --------------------------------------------------------
 Hello, Hello hello, hello, hello hello
 
