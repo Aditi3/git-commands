@@ -1,14 +1,14 @@
-# Github Test Repo Repo Repo
+# Github Test Repository. 
 Testing git merge and rebase
+
 
 Hey hi, what's up
 
---------------------------------------------------------
 Hello, Hello hello, hello, hello hello
 
---------------------------------------------------------
-
 Testing git merge and rebase
+
+--------------------------------
 
 Merges Merged Merged
 
