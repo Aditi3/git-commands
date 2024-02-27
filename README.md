@@ -1,8 +1,8 @@
-# test_repo
+# Github Test Repo
 Testing git merge and rebase
 
 
-Hello Hello hello hello
+Hello, Hello hello, hello, hello hello
 
 Merges Merged Merged
 
