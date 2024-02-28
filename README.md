@@ -1,17 +1,20 @@
 # Github Commands 
-A list of my commonly used Git commands
 
-## Setup & Init
+A collection of Git commands that are used frequently -
 
-## Stage and snapshot
+> Some commonly used Git commands include "git add" to stage changes, "git commit" to save changes, and "git push" to upload changes to a remote repository. 
 
-## Branch and checkout
+### Setup & Init
 
-## Inspect and Compare
+### Stage and snapshot
 
-## Share and Update
+### Branch and checkout
 
-## Merge and rebase
+### Inspect and Compare
+
+### Share and Update
+
+### Merge and rebase
 
 
 
